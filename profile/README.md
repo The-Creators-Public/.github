@@ -47,7 +47,7 @@ Please review our [Code of Conduct](https://github.com/The-Creators-Public/The-E
 
 - **Issues:** Report bugs or request features via the repository’s Issues tab.  
 - **Discussions:** Join the conversation (once enabled) for design ideas, lore brainstorming, and general chat.  
-- **Email:** youremail@example.com  
+- **Email:** mgs008@outlook.com  
 
 Follow us on [GitHub](https://github.com/The-Creators-Public) for updates, and star ★ our repos to show your support!
 
