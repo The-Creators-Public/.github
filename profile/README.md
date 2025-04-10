@@ -32,7 +32,7 @@ A Fabric‑powered Minecraft mod that transforms your world with dynamic seasons
 - **Advanced Cooking & Crafting:** Multi‑ingredient recipes, custom Crockpot block, and deeper food mechanics to keep you prepared for any climate.  
 - **Modular & Data‑Driven:** Fully configurable via JSON datapacks and Cloth Config GUI for seamless customization.  
 
-*Status:* Future Project 
+*Status:* Future Project  
 *Languages:* Java  
 *License:* CC BY‑NC‑SA 4.0 :contentReference[oaicite:0]{index=0}
 
