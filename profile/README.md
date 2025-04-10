@@ -1,6 +1,6 @@
-# The-Creators-Public
+# The Creators Public
 
-Welcome to **The-Creators-Public**, a community-driven GitHub Organization dedicated to crafting innovative, high-quality mods and tools for the Minecraft Fabric ecosystem—and beyond. Our mission is to empower creators, foster collaboration, and push the boundaries of what’s possible in open-source game modding.
+Welcome to **The Creators Public**, a community-driven GitHub Organization dedicated to crafting innovative, high-quality mods and tools for the Minecraft Fabric ecosystem—and beyond. Our mission is to empower creators, foster collaboration, and push the boundaries of what’s possible in open-source game modding.
 
 ---
 
