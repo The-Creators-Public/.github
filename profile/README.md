@@ -25,7 +25,16 @@ A dynamic multiblock Minecraft mod built for the Fabric loader, featuring:
 *Languages:* Java  
 *License:* CC BY-NC-SA 4.0
 
-*(More projects coming soon…)*
+### [Wilds & Weather](https://github.com/The-Creators-Public/Wilds-Weather)
+A Fabric‑powered Minecraft mod that transforms your world with dynamic seasons, localized weather events, and immersive survival mechanics:
+- **Seasonal Cycles & Festivals:** Four configurable seasons with unique weather patterns, color‑shifted biomes, and calendar‑driven in‑game events.  
+- **Environmental Survival:** Track body temperature, hydration, fatigue, and disease—each influenced by biome and season.  
+- **Advanced Cooking & Crafting:** Multi‑ingredient recipes, custom Crockpot block, and deeper food mechanics to keep you prepared for any climate.  
+- **Modular & Data‑Driven:** Fully configurable via JSON datapacks and Cloth Config GUI for seamless customization.  
+
+*Status:* Future Project 
+*Languages:* Java  
+*License:* CC BY‑NC‑SA 4.0 :contentReference[oaicite:0]{index=0}
 
 ---
 
