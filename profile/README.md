@@ -34,7 +34,7 @@ A Fabric‑powered Minecraft mod that transforms your world with dynamic seasons
 
 *Status:* Future Project  
 *Languages:* Java  
-*License:* CC BY‑NC‑SA 4.0 :contentReference[oaicite:0]{index=0}
+*License:* CC BY‑NC‑SA 4.0
 
 ---
 
